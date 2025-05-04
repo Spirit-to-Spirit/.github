@@ -1,4 +1,4 @@
-**Spirit to Spirit**
+[![Spirit to Spirit Collective](https://img.shields.io/badge/Spirit_to_Spirit-Collective-ccccff?style=flat-square&logo=feather&logoColor=555)](#)
 
 A collection of reflections, in collaboration with AI.
 
